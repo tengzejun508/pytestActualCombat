@@ -1,7 +1,6 @@
 import pytest
 
 
-
 class Test_demo():
     def test_demo(self):
         a = 1
